@@ -21,10 +21,10 @@
 </h5>
 
  </br>
- 
-<img src="https://github.com/jhsonmac/CalculadoraIMC/blob/master/assets/img.jpeg?raw=true" width=400px />
-<img src="https://github.com/jhsonmac/CalculadoraIMC/blob/master/assets/img2.jpeg?raw=true" width=400px />
-
+<p>
+<img src="https://github.com/jhsonmac/CalculadoraIMC/blob/master/assets/img.jpeg?raw=true" width=380px />
+<img src="https://github.com/jhsonmac/CalculadoraIMC/blob/master/assets/img2.jpeg?raw=true" width=380px />
+</p>
 ## :beginner: Techs
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:

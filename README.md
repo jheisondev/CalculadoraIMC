@@ -22,7 +22,8 @@
 
  </br>
  
-<img src="https://github.com/jhsonmac/Template-README/blob/master/projeto.jpg?raw=true" width=990px />
+<img src="https://github.com/jhsonmac/CalculadoraIMC/blob/master/assets/img.jpeg?raw=true" width=990px />
+<img src="https://github.com/jhsonmac/CalculadoraIMC/blob/master/assets/img2.jpeg?raw=true" width=990px />
 
 ## :beginner: Techs
 
